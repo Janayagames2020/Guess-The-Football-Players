@@ -1,0 +1,2045 @@
+{
+    "tasksData": [
+        {
+            "name": "Easy Levels",
+            "localizedName": "Livello Facile",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Francesco Totti",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Maradona",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Kylian Mbappe",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Roberto Carlos",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Eden Hazard",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Xavi Hernandez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Ruud Gullit",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Andriy Shevchenko",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Zlatan Ibrahimovic",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Leroy Sane",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "David Beckham",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Paul Pogba",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "Gianluigi Buffon",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "Luis Figo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "Mohamed Salah",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "Gabriel Batistuta",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "David Luiz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "Edin Dzeko",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "Zubizarreta",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "Dennis Bergkamp",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "Edinson Cavani",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "Ilkay Gundogan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "Steven Gerrard",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "Roberto Baggio",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "Gonzalo Higuain",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "Michel Platini",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "Gabriel Jesus",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "Iker Casillas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "Alexis Sanchez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "George Weah",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "Virgil van Dijk",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "Pavel Nedved",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "Thomas Muller",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "Harry Kane",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "Andrea Pirlo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "Nicolas Otamendi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "James Rodriguez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "Thierry Henry",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "Zico",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "Luka Modric",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "Sergio Busquets",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "Frank Rijkaard",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "Miroslav Klose",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "Michael Laudrup",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "Kyle Walker",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "Romelu Lukaku",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "Alessandro Del Piero",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "Cristiano Ronaldo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "Mario Kempes",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "Antoine Griezmann",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "Rivaldo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "Thibaut Courtois",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "David Silva",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "Carlos Valderrama",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "Ruud van Nistelrooy",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "Kevin De Bruyne",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "Oliver Kahn",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "Bobby Charlton",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "Didier Drogba",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "Paolo Maldini",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "Robert Lewandowski",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "Paulo Dybala",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "Zinedine Zidane",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "Sadio Mane",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "Pele",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "David de Gea",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "David Alaba",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "Miralem Pjanic",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "Memphis Depay",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "Harry Maguire",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        },
+        {
+            "name": "Hard Levels",
+            "localizedName": "Livello Difficile",
+            "gameType": 3,
+            "useMixedTypes": false,
+            "orderNumber": 3,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Juan Riquelme",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Hugo Lloris",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Philippe Coutinho",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Raul Gonzalez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Patrick Kluivert",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Lothar Matthaus",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Vincent Kompany",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Wayne Rooney",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Lorenzo Insigne",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Samuel Umtiti",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "Ronaldinho",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Isco",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "Edwin van der Sar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "Manuel Neuer",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "James Milner",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "Mario Balotelli",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "Carlos Tevez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "Raphael Varane",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "Daniel Alves",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "Gerard Pique",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "Matthijs de Ligt",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "Michael Ballack",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "Radamel Falcao",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "Gary Lineker",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "vinicius  Junior",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "Aubameyang",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "Bastian Schweinsteiger",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "Bernardo Silva",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "Xabi Alonso",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "Frenkie de Jong",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "Michael Owen",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "Alexandre Pato",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "Roy Keane",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "Jerome Boateng",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "Joao Felix",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "Cesc Fabregas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "Wijnaldum",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "Rio Ferdinand",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "Ansu Fati",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "Marcelo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "Paul Scholes",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "Jordi Alba",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "Alisson Becker",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "Jadon Sancho",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "Diego Costa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "Son Heung min",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "Cafu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "Keylor Navas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "Gheorghe Hagi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "Fernando Torres",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "Eric Cantona",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "Samuel Etoo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "Serge Gnabry",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "Thiago Silva",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "Javier Zanetti",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "Hakim Ziyech",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "Pedri Gonzalez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "Willian",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "Gianluigi Donnarumma",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "Clement Lenglet",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "Davor Suker",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "Ederson Moraes",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "Victor Valdes",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "Jurgen Klinsmann",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                }
+            ]
+        },
+        {
+            "name": "Medium Levels",
+            "localizedName": "Livello Medio",
+            "gameType": 1,
+            "useMixedTypes": false,
+            "orderNumber": 2,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Ronald Koeman",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Ivan Rakitic",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Franz Beckenbauer",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Dele Alli",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Filippo Inzaghi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Riyad Mahrez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Javier Mascherano",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Ryan Giggs",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "N Golo Kante",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Arturo Vidal",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "Ronaldo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Jan Oblak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "Pep Guardiola",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "Gareth Bale",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "Arjen Robben",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "Marco Reus",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "Hristo Stoichkov",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "Frank Lampard",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "Luis Suarez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "Fabio Cannavaro",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "Mauro Icardi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "Ousmane Dembele",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "Romario",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "Sergio Ramos",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "Marco van Basten",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "Christian Eriksen",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "Toni Kroos",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "Raheem Sterling",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "Diego Godin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "Gennaro Gattuso",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "Lionel Messi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "Adrien Rabiot",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "Ricardo Kaka",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "Luis Enrique",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "Wesley Sneijder",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "Peter Schmeichel",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "Marc Andre ter Stegen",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "Marcus Rashford",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "Giorgio Chiellini",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "Angel Di Maria",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "Karim Benzema",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "Neymar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "Carles Puyol",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "Robin van Persie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "Mesut Ozil",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "Jesse Lingard",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "Marco Verratti",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "Sergio Aguero",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "Franck Ribery",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "Roberto Firmino",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "Andres Iniesta",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "Clarence Seedorf",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "Philipp Lahm",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "Alan Shearer",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "Christian Vieri",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "Alexander Arnold",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "Arthur Melo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "Olivier Giroud",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "Alessandro Nesta",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "Joshua Kimmich",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "Alvaro Morata",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "Hugo Lloris",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "Lautaro Martinez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "Timo Werner",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "Thiago Alcantara",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "giocare"
+        },
+        {
+            "key": 1,
+            "value": "Info"
+        },
+        {
+            "key": 2,
+            "value": "uscita"
+        },
+        {
+            "key": 3,
+            "value": "Indietro"
+        },
+        {
+            "key": 4,
+            "value": "Preparati a risolvere alcuni puzzle di immagini! Rimani bloccato? Usa diversi suggerimenti! Guadagna monete completando le attività o guardando breve annuncio! Divertiti!"
+        },
+        {
+            "key": 5,
+            "value": "bloccato"
+        },
+        {
+            "key": 6,
+            "value": "Rivela una lettera"
+        },
+        {
+            "key": 7,
+            "value": "Rimuovi le lettere"
+        },
+        {
+            "key": 8,
+            "value": "Ottieni una risposta"
+        },
+        {
+            "key": 9,
+            "value": "Ottieni monete"
+        },
+        {
+            "key": 10,
+            "value": "Guarda l'annuncio"
+        },
+        {
+            "key": 11,
+            "value": "Compra per soldi"
+        },
+        {
+            "key": 12,
+            "value": "Continua"
+        },
+        {
+            "key": 13,
+            "value": "menu principale"
+        },
+        {
+            "key": 14,
+            "value": "Livello completato!"
+        },
+        {
+            "key": 15,
+            "value": "Se ti è piaciuto il gioco, votalo su Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "Vota"
+        },
+        {
+            "key": 18,
+            "value": "dopo"
+        },
+        {
+            "key": 17,
+            "value": "mai"
+        },
+        {
+            "key": 19,
+            "value": "Consenso alla raccolta dei dati"
+        },
+        {
+            "key": 20,
+            "value": "Pubblicità personalizzate"
+        },
+        {
+            "key": 21,
+            "value": "Consentire alle reti di annunci di utilizzare i dati raccolti e mostrare annunci personalizzati"
+        },
+        {
+            "key": 22,
+            "value": "sì"
+        },
+        {
+            "key": 23,
+            "value": "no"
+        },
+        {
+            "key": 24,
+            "value": "Sembra che tu abbia progressi migliori!"
+        },
+        {
+            "key": 25,
+            "value": "Vuoi caricarlo?"
+        },
+        {
+            "key": 26,
+            "value": "Ciao! Solo per farti sapere, utilizziamo il tuo gameplay e i dati del dispositivo con il tuo consenso per migliorare il nostro gioco!"
+        },
+        {
+            "key": 27,
+            "value": "Vuoi che ti presentiamo pubblicità pertinente adatta ai tuoi interessi?"
+        },
+        {
+            "key": 28,
+            "value": "Confermare"
+        },
+        {
+            "key": 29,
+            "value": "Per saperne di più"
+        },
+        {
+            "key": 30,
+            "value": "Rimuovi la risposta sbagliata"
+        },
+        {
+            "key": 31,
+            "value": "Rimuovi due risposte"
+        },
+        {
+            "key": 32,
+            "value": "Possibilità di sbagliare"
+        },
+        {
+            "key": 33,
+            "value": "Per favore, aiutami a completare il livello!"
+        },
+        {
+            "key": 34,
+            "value": "Aiuto dagli amici"
+        },
+        {
+            "key": 35,
+            "value": "Chiedi agli amici"
+        },
+        {
+            "key": 36,
+            "value": "Scommessa"
+        },
+        {
+            "key": 37,
+            "value": "Usa i suggerimenti se rimani bloccato!"
+        },
+        {
+            "key": 38,
+            "value": "Tocca la lettera per cancellarla. Scorri per cancellare tutte le lettere."
+        },
+        {
+            "key": 39,
+            "value": "Raschia il film per rivelare l'immagine!"
+        },
+        {
+            "key": 40,
+            "value": "Tocca questo per rendere l'immagine più chiara. Richiede l'oro!"
+        },
+        {
+            "key": 41,
+            "value": "Tocca l'immagine per renderla più chiara. Richiede l'oro!"
+        },
+        {
+            "key": 42,
+            "value": "Tocca questo per iniziare a mirare. Tocca la seconda volta per sparare. Richiede l'oro!"
+        },
+        {
+            "key": 43,
+            "value": "Tocca l'area per iniziare a mirare. Tocca la seconda volta per sparare. Richiede l'oro!"
+        },
+        {
+            "key": 44,
+            "value": "Tocca per ottenere informazioni utili sull'attività!"
+        },
+        {
+            "key": 45,
+            "value": "Quanto è difficile questo compito? Fai una scommessa giusta!"
+        },
+        {
+            "key": 46,
+            "value": "più giochi"
+        },
+        {
+            "key": 47,
+            "value": "riprova"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        121,
+        98,
+        107,
+        119,
+        116,
+        113,
+        109,
+        112,
+        110,
+        114,
+        111,
+        108,
+        118,
+        99,
+        115,
+        97,
+        106,
+        100,
+        122,
+        101,
+        104,
+        102,
+        103,
+        105,
+        120,
+        117
+    ]
+}
